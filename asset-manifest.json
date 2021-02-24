@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-formulario-citas/static/css/main.06c0571d.chunk.css",
+    "main.js": "/react-formulario-citas/static/js/main.9766f509.chunk.js",
+    "main.js.map": "/react-formulario-citas/static/js/main.9766f509.chunk.js.map",
+    "runtime-main.js": "/react-formulario-citas/static/js/runtime-main.6c264406.js",
+    "runtime-main.js.map": "/react-formulario-citas/static/js/runtime-main.6c264406.js.map",
+    "static/js/2.9b1da4d8.chunk.js": "/react-formulario-citas/static/js/2.9b1da4d8.chunk.js",
+    "static/js/2.9b1da4d8.chunk.js.map": "/react-formulario-citas/static/js/2.9b1da4d8.chunk.js.map",
+    "static/js/3.b4ddd1f6.chunk.js": "/react-formulario-citas/static/js/3.b4ddd1f6.chunk.js",
+    "static/js/3.b4ddd1f6.chunk.js.map": "/react-formulario-citas/static/js/3.b4ddd1f6.chunk.js.map",
+    "index.html": "/react-formulario-citas/index.html",
+    "static/css/main.06c0571d.chunk.css.map": "/react-formulario-citas/static/css/main.06c0571d.chunk.css.map",
+    "static/js/2.9b1da4d8.chunk.js.LICENSE.txt": "/react-formulario-citas/static/js/2.9b1da4d8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c264406.js",
+    "static/js/2.9b1da4d8.chunk.js",
+    "static/css/main.06c0571d.chunk.css",
+    "static/js/main.9766f509.chunk.js"
+  ]
+}
