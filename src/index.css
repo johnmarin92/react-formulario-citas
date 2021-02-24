@@ -5,12 +5,12 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background-image: linear-gradient(-225deg, #A445B2 0%, #D41872 52%, #FF0066 100%);
+  background-image: linear-gradient(-225deg, #9ff8d6 0%, #18d447 52%, #0c3610 100%);
   min-height: 100%;
   padding-bottom: 5rem;
 }
 h1, h2  {
-  color: white;
+  color: rgb(222, 249, 253);
   padding: 3rem 0;
   text-align: center;
 
@@ -77,14 +77,14 @@ input[type="time"] {
 }
 .button.eliminar,
 .button.eliminar:hover {
-  background-color: #c10059;
+  background-color: #4a69be;
   color: white;
   margin-top: 2rem;
 }
 
 .alerta-error {
-  background-color: white;
-  color: red;
+  background-color: rgb(224, 98, 39);
+  color: rgb(240, 236, 238);
   padding: 1rem;
   font-size: 2rem;
   text-transform: uppercase;
